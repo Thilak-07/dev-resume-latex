@@ -19,7 +19,7 @@ docker run --rm -i -v "$PWD":/data latex pdflatex main.tex
 
 ### Preview
 
-![Resume Screenshot](/resume_preview.png)
+![Resume Screenshot](/resume_preview.jpg)
 
 ### License
 
